@@ -1,5 +1,6 @@
 bk_coop_simulation_00_tfv1
 bk_coop_simulation_01_fix_tfv1
+cg_puzzle_pyramid__final_tfv1
 cl_coop_level1_escape_tfv1
 cl_coop_level2_survive_tfv1
 coop_blame!_log1_tfv3
@@ -32,3 +33,4 @@ mm_coop_rebels_vs_combine_part2_tfv4
 mph_citadel_escape_tfv1
 mph_rebel_incursion5_tfv1
 poison_coop_re1_beta1_tfv1
+poison_puzzle_lego_beta5_tfv1
