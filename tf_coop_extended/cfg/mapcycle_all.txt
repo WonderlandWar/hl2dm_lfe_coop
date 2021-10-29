@@ -14,7 +14,7 @@ coop_resident_evil_tfv2
 coop_swampthing_tfv1
 js_coop_horror_tfv1
 js_coop_killer_lost_tfv2
-js_coop_mesa_tfv1
+js_coop_mesa_tfv2
 js_coop_monsterkill_reload_b_tfv2
 js_coop_powerworks_tfv2
 js_coop_savescientist_tfv6
@@ -31,6 +31,7 @@ mm_coop_leftover_tfa2
 mm_coop_rebels_vs_combine_tfv2
 mm_coop_rebels_vs_combine_part2_tfv4
 mph_citadel_escape_tfv1
+mph_puzzle_one_tfv1
 mph_rebel_incursion5_tfv1
 poison_coop_re1_beta1_tfv1
 poison_puzzle_lego_beta5_tfv2
