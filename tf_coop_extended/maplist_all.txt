@@ -34,6 +34,6 @@ mm_coop_rebels_vs_combine_part2_tfv4
 mph_citadel_escape_tfv1
 mph_puzzle_one_tfv1
 mph_rebel_incursion5_tfv1
-poison_coop_re1_beta1_tfv1
+poison_coop_re1_beta1_tfv2
 poison_puzzle_lego_beta5_tfv2
 poison_puzzle_lego_v2_tfv1
