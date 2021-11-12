@@ -63,7 +63,7 @@ By Meow:
 * coop_meows_fun_day_out
 * coop_meows_island_defence
 * coop_meows_sewer_mania
-* 
+
 By ThunderSeb:
 * js_coop_thunder
 
