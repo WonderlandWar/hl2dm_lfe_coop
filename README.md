@@ -11,6 +11,7 @@ The only maps made by me or contributed to are:
 * mm_coop_facility
 * mm_coop_facility2
 * mm_coop_leftover
+* mm_coop_powerhouse
 * mm_coop_rebels_vs_combine
 * mm_coop_rebels_vs_combine_part2
 

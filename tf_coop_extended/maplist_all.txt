@@ -29,6 +29,7 @@ mm_coop_coastline_tfv2
 mm_coop_facility_tfv5
 mm_coop_facility2_tfv8
 mm_coop_leftover_tfa3
+mm_coop_powerhouse_tfv1
 mm_coop_rebels_vs_combine_tfv2
 mm_coop_rebels_vs_combine_part2_tfv4
 mph_citadel_escape_tfv1
