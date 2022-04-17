@@ -1,0 +1,27 @@
+// Plugin version
+sm_respawn_override_version
+
+// Maximal respawn time.
+// Set -1 to disable plugin.
+
+sm_respawn_time 0.01
+// Minimal respawn time.
+sm_respawn_time_min 0
+// Respawn mode:
+// 0 - regular,
+// 1 - based on distance from spawnroom to death point.
+sm_respawn_mode 0
+// 
+sm_respawn_dist_min 500
+// 
+sm_respawn_dist_max 500
+// 
+sm_respawn_effects 1
+// Duration of revenge crits after death at spawn room.
+// Multiplied by player speed.
+sm_respawn_crits 1
+// Revenge crits became uber after this amount of deaths.
+sm_respawn_crits2uber 0
+// Duration of speed boost when player dies too far.
+// Multiplied by player speed.
+sm_respawn_boost 10
