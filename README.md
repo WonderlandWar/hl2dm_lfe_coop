@@ -16,14 +16,12 @@ The only maps made by me or contributed to are:
 * mm_coop_rebels_vs_combine_part2
 
 All other maps were modified by me to be playable in Lambda Fortress. The map creators are credited within the maps themselves.
-I've also been trying to contact the creators of the maps to see if it's ok with them that I make their maps playable. Most of them haven't responded, sadly.
+I've also been trying to contact the creators of the maps to see if it's ok with them that I make their maps playable. Most of them haven't responded, sadly. If you see a "%" before the "By", that means I have gotten permission. If the map creator doesn't have any symbol, it means I haven't been able to contact them and obviously if they wanted me to take the maps down, they wouldn't be on the list.
 # Credits
 
-By Poi$on/PoisonMichael:
+%By Poi$on/PoisonMichael:
 * poison_puzzle_lego
 * poison_coop_re1_beta1
-
-I have gotten permission from Poison to use their maps
 
 By D@SoLe:
 * js_coop_horror
@@ -35,27 +33,26 @@ By Carl's LowGravity
 
 By Dogge-Cat:
 * coop_citadel_escape
+* js_coop_powerworks
 * js_coop_savescientist
 * js_coop_waterworks_ttc
 * js_coop_part2_waterworks
 * js_coop_part3_waterworks
-* js_coop_powerworks_tfv2
 
 By TheThing:
 * js_coop_monsterkill_reload
 * js_coop_savescientist
-* js_coop_waterworks_ttc
+* js_coop_waterworks
 * js_coop_part2_waterworks
 * js_coop_part3_waterworks
-* js_coop_powerworks_tfv2
 
 By ChrisGreen:
 * cg_puzzle_pyramid
 
 By Mr. Potatohead:
 * mph_citadel_escape
-* mph_puzzle_one
 * mph_rebel_incursion
+* mph_puzzle_one
 
 By ?????SL??-X4:
 * mph_puzzle_one
@@ -63,6 +60,7 @@ By ?????SL??-X4:
 By Meow:
 * coop_meows_fun_day_out
 * coop_meows_island_defence
+* coop_meows_pyramid
 * coop_meows_sewer_mania
 
 By ThunderSeb:
@@ -87,5 +85,11 @@ By Predator:
 By Downloading:
 * coop_resident_evil
 
-Other:
+By Mxthe:
+* tbr_coop_thousand_antlions
+
+By OranjeHazelnoot:
+* tbr_coop_thousand_antlions
+
+Other/Unknown creator:
 * js_coop_mesa
