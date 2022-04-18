@@ -36,3 +36,4 @@ mph_puzzle_one_tfv1
 mph_rebel_incursion5_tfv1
 poison_coop_re1_beta1_tfv2
 poison_puzzle_lego_v2_tfv1
+tbr_coop_thousand_antlions_v3b_tfv1
