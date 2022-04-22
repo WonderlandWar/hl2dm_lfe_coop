@@ -16,7 +16,7 @@ The only maps made by me or contributed to are:
 * mm_coop_rebels_vs_combine_part2
 
 All other maps were modified by me to be playable in Lambda Fortress. The map creators are credited within the maps themselves.
-I've also been trying to contact the creators of the maps to see if it's ok with them that I make their maps playable. Most of them haven't responded, sadly. If you see a "%" before the "By", that means I have gotten permission. If the map creator doesn't have any symbol, it means I haven't been able to contact them and obviously if they wanted me to take the maps down, they wouldn't be on the list.
+I've also been trying to contact the creators of the maps to see if it's ok with them that I make their maps playable. Most of them haven't responded, sadly. If you see a "%" before the "By", that means I have gotten permission. If the map creator doesn't have any symbol, it means I haven't been able to contact them and obviously if they wanted me to take the maps down, their map wouldn't be on the list.
 # Credits
 
 %By Poi$on/PoisonMichael:
@@ -78,6 +78,9 @@ By JoeScoma:
 * jsc_ultraviolet
 * js_coop_space
 * js_coop_sewers
+
+By X| Master Jurgen:
+* js_coop_stargate
 
 By Predator:
 * jsc_ultraviolet

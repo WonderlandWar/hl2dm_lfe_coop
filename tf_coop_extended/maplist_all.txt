@@ -21,6 +21,7 @@ js_coop_powerworks_tfv2
 js_coop_savescientist_tfv6
 js_coop_sewers_tfv1
 js_coop_space_fixed_tfv2
+js_coop_stargate_p9_tfv1
 js_coop_thunder_b4_tfv3
 js_coop_waterworks_ttc_tfv1
 js_coop_part2_waterworks_tfv2
